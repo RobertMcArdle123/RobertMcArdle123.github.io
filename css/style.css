@@ -243,6 +243,11 @@ button:focus,
     color         : #bebece;
     }
 
+.section-title1 h2 {
+    margin-bottom : 5px;
+    color         : #black;
+    }
+
 /*-----------------------------
  * NAVIGATION & HEADER STYLE
  *-------------------------------*/
